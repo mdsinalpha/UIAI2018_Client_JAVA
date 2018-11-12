@@ -1,3 +1,2 @@
 - UIAI2018 Client JAVA
-- Coming Soon :)
 - https://github.com/locationtech/jts
